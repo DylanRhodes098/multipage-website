@@ -1,7 +1,7 @@
-# Multi-page Website
+# 🌐 Multi-page Website
 A responsive 4-page website for a fictional gym and fitness center. The site showcases services, membership options, and contact information, designed to attract new members and promote a healthy lifestyle.
 
-## Features
+## 🚀 Features
 1. A home page with:
 - Gym search
 - 3 products to select from 
@@ -17,19 +17,39 @@ A responsive 4-page website for a fictional gym and fitness center. The site sho
 - A contact form
 - Contact information
 
-## Technologies Used 
+## 💻 Technologies Used 
 - HTML
 - CSS
 
-## Project Structure 
-
+## 📁 Project Structure 
+```
  │── home.html # Home page
  │── about.html # About page
  │── membership.html # Memberhsip page
  │── contactus.html # Contact page
  │── style.css # Styling for UI
  │── README.md # Project documentation
+```
 
- ## How to Use 
+ ## 🔨 How to Use 
  1. Clone the repository 
- - git clone 
+```
+ git clone https://github.com/DylanRhodes098/multipage-website.git
+```
+
+ 2. Navigate to project folder 
+ ```
+ cd project-name
+ ``` 
+
+ 3. Install dependencies 
+ ```
+ npm install
+ ```
+
+ 4. Run the project
+ ```
+ npm start 
+```
+
+
